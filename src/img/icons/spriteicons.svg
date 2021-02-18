@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>:root > svg
+  {
+    display: none
+  }
+  :root>svg:target {
+    display: block
+  }
+</style>
+<svg fill="none" viewBox="0 0 34 34" id="Dribbble" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="32" height="32" rx="16" fill="#000" fill-opacity=".01" stroke="#D97AB0" stroke-width="2"/><path fill="url(#apattern0)" d="M11 11h12v12H11z"/><defs>
+    <pattern id="apattern0" patternContentUnits="objectBoundingBox" width="1" height="1"><use xlink:href="#aimage0" transform="scale(.08333)"/></pattern><image id="aimage0" width="12" height="12" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAA6UlEQVQokU2S0bEBURBED7UBbAhCIAJksDIgA379KBGQARmQASLgfb6/DUEI6tC36k7V1O7O9nT33LmD/+2VxAjYAR3QpvYGBOyB3kKTH2PgVgEF/QFTYBmSOfAahvkWoMU7MAOO+T6GSMyoiY22Aiv9TF2yriLZNZHro7AMyFhnhkUsqtA1YW8rW30YC/M4abTDvHgKg+SmAtjk4KaWsEFZC8YBuERllZoEZb63Dfqz+xTfBXAOmSr+N68uziE9FeeQRXAJ1bRX9jNxaOUFObQsPh/V9k2VxPRl0y+7q6vxHTBArf2uBvAB+tI7+oYeiyMAAAAASUVORK5CYII="/></defs>
+</svg>
+<svg fill="none" viewBox="0 0 34 34" id="Facebook" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="32" height="32" rx="16" fill="#000" fill-opacity=".01" stroke="#39599F" stroke-width="2"/><path fill="url(#bpattern0)" d="M14 11h6v12h-6z"/><defs>
+    <pattern id="bpattern0" patternContentUnits="objectBoundingBox" width="1" height="1"><use xlink:href="#bimage0" transform="scale(.16667 .08333)"/></pattern><image id="bimage0" width="6" height="12" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAMCAYAAABBV8wuAAAAUklEQVQYlWO0jJzPwMDAYMDAwLCegYFBgQEKmKB0PbIgCLBAaQEksUQGBoYHIB0OaBIPYDr2IxsB48PswAAgCUYGBoYDSDIgPiNeHTSVYGBgAADjAwetkEKPggAAAABJRU5ErkJggg=="/></defs>
+</svg>
+<svg fill="none" viewBox="0 0 34 34" id="Pinterest" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="32" height="32" rx="16" fill="#000" fill-opacity=".01" stroke="#CC212C" stroke-width="2"/><path fill="url(#cpattern0)" d="M12 11h10v12H12z"/><defs>
+    <pattern id="cpattern0" patternContentUnits="objectBoundingBox" width="1" height="1"><use xlink:href="#cimage0" transform="scale(.1 .08333)"/></pattern><image id="cimage0" width="10" height="12" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAMCAYAAABbayygAAAAt0lEQVQYlW2QXQ3CQBCEvzYIQAJ9JwEJOIA6AAlVQKoAHAAOigIQQEIdFAecA8gks8mRMk+7Nz97u8WjmgNMgT2wdR3ogBboJyZuwBI4A1eL1jZugLoEThbtgIvru/vGpoNGf0zUwNuEBEfX4ind9E4i638gYfI/XiZSJgxzklBjZsDKjzJILOgSQiehNi2ARZbyBAZPkqmJPwqRqLuJVLIWqtTHwWM7kSJGyBMF3fEvcmGMGgP4AiQeKmbjHB1AAAAAAElFTkSuQmCC"/></defs>
+</svg>
+<svg fill="none" viewBox="0 0 34 34" id="RSS" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="32" height="32" rx="16" fill="#000" fill-opacity=".01" stroke="#F8902E" stroke-width="2"/><path fill="url(#dpattern0)" d="M12 12h10v10H12z"/><defs>
+    <pattern id="dpattern0" patternContentUnits="objectBoundingBox" width="1" height="1"><use xlink:href="#dimage0" transform="scale(.1)"/></pattern><image id="dimage0" width="10" height="10" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAqUlEQVQYlW2QUQ3CQBAFp6QCkFAMkEoABQQJOAAJKKA4wAFBAaAAHIAM/iDT3jb7wSaX6929nX2v1aebfxnqCdyAI/Aud2NN0ncLbIEXcPgnrIAlsEskGx7ANAuvwKqMngH7NMG3UbgoBC9dJ2CTxL0NhRIMYdnkSM9BFtKYOuiKzsWXQn0brAE6iaLDyzo1ufxV/bku6Cgp0hQZ8BJeJZrWiv2eggzegR+KQySg1Lx70wAAAABJRU5ErkJggg=="/></defs>
+</svg>
+<svg fill="none" viewBox="0 0 34 34" id="Twitter" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="32" height="32" rx="16" fill="#000" fill-opacity=".01" stroke="#45B0E3" stroke-width="2"/><path fill="url(#epattern0)" d="M12 11h9v12h-9z"/><defs>
+    <pattern id="epattern0" patternContentUnits="objectBoundingBox" width="1" height="1"><use xlink:href="#eimage0" transform="scale(.11111 .08333)"/></pattern><image id="eimage0" width="9" height="12" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAMCAYAAACwXJejAAAAdklEQVQYlY2RUQ2AMAwFD4IApAwF8IMOsICj4QAH4IBaIBhAAikZyVK2hPtZutzat63ol3MHHCBAQ4IyCITV5aSYOiVVph6ALqovwFtpTDRq7bgktpMHDrtnpRnY/gSP0eCij7maG1lEg0/hRA6n0vsdnywPIDd20xTROZ0meQAAAABJRU5ErkJggg=="/></defs>
+</svg></svg>

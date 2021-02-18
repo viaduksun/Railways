@@ -1,0 +1,26 @@
+$primarygray: #e7e7e7;
+$midle_gray: #4e4e4e;
+$light_gray: #b9b9b9;
+$font_white: #fefefe;
+$active_link: rgb(91, 179, 171);
+
+@mixin before($left: 0) {
+  &::before {
+    content: "";
+    background: $midle_gray;
+    width: 8px;
+    height: 2px;
+    position: absolute;
+    left: $left;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+%pseudo_dash {
+  content: "";
+  width: 6px;
+  height: 1px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
